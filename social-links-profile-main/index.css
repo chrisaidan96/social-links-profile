@@ -1,0 +1,42 @@
+body {
+  background-color: hsl(0, 0%, 8%);
+  color: white;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+}
+.baratheon {
+  background-color: hsl(0, 0%, 12%);
+  width: 23%;
+  margin: 50px;
+  border-radius: 30px;
+  padding: 20px;
+  text-align: center;
+  margin: 100px auto;
+  border-style: hidden;
+}
+.avatar {
+  border-radius: 50%;
+}
+.tyrell {
+  color: white;
+}
+.lannister {
+  color: hsl(75, 94%, 57%);
+  margin-top: 8px;
+}
+.martell {
+  margin: 20px;
+  color: white;
+}
+.starks {
+  text-decoration: none;
+  color: white;
+  display: block;
+  background-color: hsl(0, 0%, 20%);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
